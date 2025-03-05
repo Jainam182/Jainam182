@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hey, I'm Jainam Jagani!
+💻 Code. Create. Innovate. As a Computer Engineering student, I'm on a mission to build impactful tech solutions. Whether it's Python, Java, AI/ML, or data visualization, I love turning complex ideas into reality.
 
-<!--
-**Jainam182/Jainam182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What drives me?
 
-Here are some ideas to get you started:
+Crafting intelligent solutions with AI & ML
+Making sense of data through analytics & visualization
+Building sleek, responsive web experiences
+🛠 Tech Arsenal:
+Java | Python | C | ReactJS | SQL | PostgreSQL | Pandas | NumPy | Matplotlib | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Beyond the code:
+
+Always up for learning new stacks & tools 🔍
+Passionate about solving real-world problems through tech 💡
+🎯 Seeking internship opportunities where I can level up my skills, contribute meaningfully, and work alongside brilliant minds.
+
+Let’s connect and build something awesome together! ⚡
