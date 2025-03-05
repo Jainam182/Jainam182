@@ -11,7 +11,7 @@ Java | Python | C | ReactJS | SQL | PostgreSQL | Pandas | NumPy | Matplotlib | G
 
 🌍 Beyond the code:
 
-Always up for learning new stacks & tools 🔍
+Always up for learning new stacks & tools 🔍   
 Passionate about solving real-world problems through tech 💡
 
 🎯 Seeking internship opportunities where I can level up my skills, contribute meaningfully, and work alongside brilliant minds.
