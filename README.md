@@ -1,51 +1,13 @@
-# 👋 Hey, I'm Jainam Jagani!
+👋 Hey, I'm Jainam Jagani!
 
-💻 **Code. Create. Innovate.**  
-As a **Computer Engineering** student, I'm on a mission to build impactful tech solutions. Whether it's **Python, Java, AI/ML**, or **data visualization**, I love turning complex ideas into reality.
+💻 I'm a Computer Engineering student passionate about solving real-world problems through technology. Whether it's Python, Java, AI/ML, or data visualization, I enjoy turning complex ideas into practical solutions. I'm constantly learning and experimenting with new technologies to build projects that have real impact.
 
----
+🚀 What drives me is the excitement of crafting intelligent solutions with AI and Machine Learning 🤖, extracting insights from data through analytics and visualization 📊, and building sleek, responsive web experiences 🌐 that offer great user interaction.
 
-## 🚀 What drives me?
-- 🤖 Crafting intelligent solutions with **AI & ML**
-- 📊 Making sense of data through **analytics & visualization**
-- 🌐 Building sleek, responsive **web experiences**
+🛠 Tech Arsenal: 
+`C` | `C++` | `Java` | `Python` | `HTML` | `CSS` | `JavaScript` | `ReactJS` | `MySQL` | `SQLite` | `MongoDB` | `NumPy` | `Pandas` | `Scikit-Learn` | `TensorFlow` | `OpenCV` | `Wireshark` | `Nmap` | `Metasploit` | `John the Ripper` | `Git` | `GitHub` | `VS Code` | `NetBeans` | `PyCharm` | `Docker` | `Canva` | `CorelDRAW`
 
----
 
-## 🛠 Tech Arsenal:
+🌍 Beyond the code, I love staying curious about new stacks and tools 🔍, and applying my knowledge to solve meaningful problems 💡. I value collaboration, continuous learning, and building things that matter.
 
-### 💻 Programming Languages  
-`C` | `Java` | `Python`
-
-### 🌐 Web Development  
-`HTML` | `CSS` | `JavaScript` | `ReactJS`
-
-### 🗃️ Database Management  
-`MySQL` | `SQLite` | `MongoDB` | `PostgreSQL`
-
-### 🧠 AI & Machine Learning  
-`NumPy` | `Pandas` | `Scikit-Learn` | `TensorFlow` | `OpenCV`
-
-### 🛡️ Cybersecurity Tools  
-`Wireshark` | `Nmap` | `Metasploit` | `John the Ripper`
-
-### 🧰 Platforms & Tools  
-`Git` | `GitHub` | `VS Code` | `NetBeans` | `PyCharm` | `Docker`
-
-### 💽 Operating Systems  
-`Windows` | `Linux (Ubuntu, ParrotOS, Kali)`
-
-### 🎨 Design Tools  
-`Canva` | `CorelDRAW`
-
----
-
-## 🌍 Beyond the code
-- 🔍 Always up for learning new stacks & tools
-- 💡 Passionate about solving real-world problems through tech
-
----
-
-🎯 **Seeking internship opportunities** where I can **level up my skills**, contribute meaningfully, and work alongside brilliant minds.
-
-⚡ Let’s connect and build something awesome together!
+⚡ Let's connect and build something amazing together!
