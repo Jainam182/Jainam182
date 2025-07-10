@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm Jainam Jagani!
 
 💻 **Code. Create. Innovate.**  
 As a **Computer Engineering** student, I'm on a mission to build impactful tech solutions. Whether it's **Python, Java, AI/ML**, or **data visualization**, I love turning complex ideas into reality.
@@ -13,12 +13,34 @@ As a **Computer Engineering** student, I'm on a mission to build impactful tech 
 ---
 
 ## 🛠 Tech Arsenal:
-`Java` | `Python` | `C++` | `ReactJS` | `SQL` | `PostgreSQL` | `Pandas` | `NumPy` | `Matplotlib` | `Git`
+
+### 💻 Programming Languages  
+`C` | `Java` | `Python`
+
+### 🌐 Web Development  
+`HTML` | `CSS` | `JavaScript` | `ReactJS`
+
+### 🗃️ Database Management  
+`MySQL` | `SQLite` | `MongoDB` | `PostgreSQL`
+
+### 🧠 AI & Machine Learning  
+`NumPy` | `Pandas` | `Scikit-Learn` | `TensorFlow` | `OpenCV`
+
+### 🛡️ Cybersecurity Tools  
+`Wireshark` | `Nmap` | `Metasploit` | `John the Ripper`
+
+### 🧰 Platforms & Tools  
+`Git` | `GitHub` | `VS Code` | `NetBeans` | `PyCharm` | `Docker`
+
+### 💽 Operating Systems  
+`Windows` | `Linux (Ubuntu, ParrotOS, Kali)`
+
+### 🎨 Design Tools  
+`Canva` | `CorelDRAW`
 
 ---
 
-## 🌍 Beyond the code:
-- 📂 **Open-source contributor**
+## 🌍 Beyond the code
 - 🔍 Always up for learning new stacks & tools
 - 💡 Passionate about solving real-world problems through tech
 
