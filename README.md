@@ -5,6 +5,7 @@
 🚀 What drives me is the excitement of crafting intelligent solutions with AI and Machine Learning 🤖, extracting insights from data through analytics and visualization 📊, and building sleek, responsive web experiences 🌐 that offer great user interaction.
 
 🛠 Tech Arsenal: 
+
 `C` | `C++` | `Java` | `Python` | `HTML` | `CSS` | `JavaScript` | `ReactJS` | `MySQL` | `SQLite` | `MongoDB` | `NumPy` | `Pandas` | `Scikit-Learn` | `TensorFlow` | `OpenCV` | `Wireshark` | `Nmap` | `Metasploit` | `John the Ripper` | `Git` | `GitHub` | `VS Code` | `NetBeans` | `PyCharm` | `Docker` | `Canva` | `CorelDRAW`
 
 
