@@ -1,5 +1,14 @@
 # 💫 About Me:
-Built and contributed to multiple AI and automation projects focused on real-world applications, including safety systems, geospatial analysis, and data-driven insights.<br><br>I currently work alongside senior developers on automation scripts and testing, gaining hands-on experience in building reliable, production-oriented solutions. Alongside this, I’ve developed projects like a women’s safety application that alerts users about unsafe locations, and GeoChain, which simplifies geospatial analysis using natural language queries. I’m also working on a multimodal AI system for analyzing AQI data and predicting health risks.<br><br>My core strengths are in Machine Learning, Deep Learning, and Natural Language Processing, supported by strong Python skills and experience with full-stack development, data pipelines, and visualization tools.<br><br>I’m focused on AI engineering roles where I can build systems that turn data into practical, high-impact solutions.<br><br>Open to the right AI/ML and software opportunities.
+👋 Hey, I'm Jainam Jagani!
+
+💻 I'm a Computer Engineering student passionate about solving real-world problems through technology. Whether it's Python, Java, AI/ML, or data visualization, I enjoy turning complex ideas into practical solutions. I'm constantly learning and experimenting with new technologies to build projects that have real impact.
+
+🚀 What drives me is the excitement of crafting intelligent solutions with AI and Machine Learning 🤖, extracting insights from data through analytics and visualization 📊, and building sleek, responsive web experiences 🌐 that offer great user interaction.
+
+🌍 Beyond the code, I love staying curious about new stacks and tools 🔍, and applying my knowledge to solve meaningful problems 💡. I value collaboration, continuous learning, and building things that matter.
+
+⚡ Let's connect and build something amazing together!
+
 
 
 ## 🌐 Socials:
@@ -12,16 +21,5 @@ Built and contributed to multiple AI and automation projects focused on real-wor
 ![](https://nirzak-streak-stats.vercel.app/?user=Jainam182&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jainam182&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jainam182&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jainam182&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Jainam182&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
